@@ -1,0 +1,5 @@
+- https://github.com/louisnw01/lightweight-charts-python
+- streamlit
+- yfinance
+- st_pages on pip
+- financedatabase on pip

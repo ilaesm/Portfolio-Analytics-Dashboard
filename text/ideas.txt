@@ -1,0 +1,1 @@
+- display pi chart for portfolio composition. Do this by creating a new dataframe and multipling the amount of shares of each asset and the current price. Then display it in a pi chart
